@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-store-20bc1": {
+      "hosting": {
+        "platzi-store": [
+          "angular-store-20bc1"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-store-20bc1"
+  }
+}
